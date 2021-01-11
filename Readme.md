@@ -1,4 +1,4 @@
-# Install Contour in IBM Cloud
+# Install Metris Server in IBM Cloud
 
 ## Pre-requisites
 

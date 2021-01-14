@@ -111,8 +111,8 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 ![Screenshot](metricstest5.PNG)
 
-* You can now use the Metrics Server to its API to read the Kubernetes Cluster metrics. You can edit the configuration file to fine tune and adjust what you need. You can read more about it [here]
+* You can now use the Metrics Server to its API to read the Kubernetes Cluster metrics. You can edit the configuration file to fine tune and adjust what you need. You can read more about it [here](https://cloud.ibm.com/docs/containers?topic=containers-kernel "here").
 
-![Screenshot](metricstest6.PNG)(https://cloud.ibm.com/docs/containers?topic=containers-kernel "here").
+![Screenshot](metricstest6.PNG)
 
 You have finished the installation, enjoy your Metrics Server Installation.

@@ -115,6 +115,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 `$ kubectl edit configmap metrics-server-config -n kube-system`
 
+
 ![Screenshot](metricstest6.PNG)
 
 You have finished the installation, enjoy your Metrics Server Installation.
